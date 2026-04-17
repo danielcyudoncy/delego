@@ -130,7 +130,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
                                 ),
                               ),
                               Text(
-                                "Last Updated: 12/08/2025",
+                                "Last Updated: 17/04/2026",
                                 style: GoogleFonts.raleway(
                                   fontSize: 14.sp,
                                   color: (isDark
